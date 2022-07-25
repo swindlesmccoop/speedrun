@@ -1,0 +1,4 @@
+baseURL = 'http://speedrun.org'
+languageCode = 'en-us'
+title = 'Speedrun.com Alternative'
+theme = 'speedrun'

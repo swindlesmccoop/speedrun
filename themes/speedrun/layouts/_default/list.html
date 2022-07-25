@@ -1,0 +1,18 @@
+{{ partial "header.html" . -}}
+
+<style>
+ul, p {
+	text-align: center ;
+}
+</style>
+
+<header><h1 id="tag_{{ .Title }}">{{ .Title | title }}</h1></header>
+<article>
+{{ .Content -}}
+<ul>
+{{- range.Pages }}
+	<a href="{{.RelPermalink }}">{{.Title}}</a></li>
+{{ end -}}
+</ul>
+</article>
+{{- partial "footer.html" . }}
