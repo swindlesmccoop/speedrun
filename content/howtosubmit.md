@@ -1,5 +1,5 @@
 ---
-title: "How To Submit"
+title: "How To Submit To The Leaderboards"
 ---
 
 ---
