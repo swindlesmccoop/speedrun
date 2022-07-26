@@ -5,7 +5,7 @@ title: "Example Game"
 
 ---
 ### Any%
-|Runner|Time|Video|Date|
+|Runner|Time|Link|Date|
 |:----:|:--:|:---:|:--:|
 |[swindlesmccoop](/user/swindlesmccoop)|1:00.777|[Link](https://youtube.com/watch?v=adsf887ho87i)|July 4, 2069|
 |[swindlesmccoop](/user/swindlesmccoop)|1:00.778|[Link](https://youtube.com/watch?v=adsf887ho87i)|July 3, 2012|
@@ -16,7 +16,7 @@ title: "Example Game"
 ### &nbsp;
 
 ### 100%
-|Runner|Time|Video|Date|
+|Runner|Time|Link|Date|
 |:----:|:--:|:---:|:--:|
 |[swindlesmccoop](/user/swindlesmccoop)|12:34.567|[Link](https://youtube.com)|June 19, 1945|
 #
