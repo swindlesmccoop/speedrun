@@ -1,0 +1,6 @@
+{{ partial "header.html" . -}}
+<header><h1>{{ .Title }}</h1></header>
+<article>
+{{ .Content -}}
+{{ partial "taglist.html" . -}}
+{{ partial "footer.html" . -}}
